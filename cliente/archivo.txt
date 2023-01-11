@@ -1,0 +1,4 @@
+Hola Gabriel, soy Andreu y este es mi archivo de ejemplo para el trabajo.
+Este mensaje es un mensaje de prueba para el trabajo.
+Donde vamos a simular un servidor DNS y un cliente.
+El cliente hace una pregunta, y el servidor le responde.
